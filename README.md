@@ -1,1 +1,1 @@
-# Sandwich-Prior_superResolution
+# MIDDLE-Net
